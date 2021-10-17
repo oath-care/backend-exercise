@@ -1,1 +1,1 @@
-*Interviewer to paste exercise prompt here*
+*Interviewee to paste exercise prompt here*
